@@ -1,0 +1,121 @@
+﻿image,source_video,split,source_frame_zero_based,source_seconds
+train/train_mixed_f0005.jpg,3개 모두.mp4,train,5,0.174
+train/train_mixed_f0035.jpg,3개 모두.mp4,train,35,1.166
+train/train_mixed_f0064.jpg,3개 모두.mp4,train,64,2.14
+train/train_mixed_f0094.jpg,3개 모두.mp4,train,94,3.14
+train/train_mixed_f0109.jpg,3개 모두.mp4,train,109,3.64
+train/train_mixed_f0124.jpg,3개 모두.mp4,train,124,4.14
+train/train_mixed_f0138.jpg,3개 모두.mp4,train,138,4.598
+train/train_mixed_f0168.jpg,3개 모두.mp4,train,168,5.598
+val/val_mixed_f0212.jpg,3개 모두.mp4,val,212,7.073
+val/val_mixed_f0227.jpg,3개 모두.mp4,val,227,7.573
+val/val_mixed_f0242.jpg,3개 모두.mp4,val,242,8.072
+val/val_mixed_f0271.jpg,3개 모두.mp4,val,271,9.039
+val/val_mixed_f0286.jpg,3개 모두.mp4,val,286,9.539
+train/train_mixed_f0330.jpg,3개 모두.mp4,train,330,11.005
+train/train_mixed_f0345.jpg,3개 모두.mp4,train,345,11.505
+test/test_mixed_f0390.jpg,3개 모두.mp4,test,390,13.005
+test/test_mixed_f0404.jpg,3개 모두.mp4,test,404,13.471
+test/test_mixed_f0419.jpg,3개 모두.mp4,test,419,13.971
+test/test_mixed_f0478.jpg,3개 모두.mp4,test,478,15.937
+test/test_mixed_f0508.jpg,3개 모두.mp4,test,508,16.937
+train/train_mixed_f0567.jpg,3개 모두.mp4,train,567,18.903
+train/train_mixed_f0582.jpg,3개 모두.mp4,train,582,19.403
+train/train_mixed_f0596.jpg,3개 모두.mp4,train,596,19.87
+train/train_mixed_f0611.jpg,3개 모두.mp4,train,611,20.37
+train/train_mixed_f0700.jpg,3개 모두.mp4,train,700,23.336
+train/train_mixed_f0715.jpg,3개 모두.mp4,train,715,23.835
+train/train_mixed_f0996.jpg,3개 모두.mp4,train,996,33.753
+train/train_mixed_f1010.jpg,3개 모두.mp4,train,1010,34.219
+train/train_mixed_f1025.jpg,3개 모두.mp4,train,1025,34.719
+train/train_mixed_f1099.jpg,3개 모두.mp4,train,1099,37.185
+train/train_glue_stick_f0005.jpg,딱풀.mp4,train,5,0.173
+train/train_glue_stick_f0035.jpg,딱풀.mp4,train,35,1.173
+train/train_glue_stick_f0065.jpg,딱풀.mp4,train,65,2.173
+train/train_glue_stick_f0095.jpg,딱풀.mp4,train,95,3.173
+train/train_glue_stick_f0124.jpg,딱풀.mp4,train,124,4.139
+test/test_glue_stick_f0184.jpg,딱풀.mp4,test,184,6.139
+test/test_glue_stick_f0199.jpg,딱풀.mp4,test,199,6.639
+test/test_glue_stick_f0214.jpg,딱풀.mp4,test,214,7.138
+test/test_glue_stick_f0229.jpg,딱풀.mp4,test,229,7.638
+test/test_glue_stick_f0258.jpg,딱풀.mp4,test,258,8.605
+train/train_glue_stick_f0333.jpg,딱풀.mp4,train,333,11.096
+train/train_glue_stick_f0363.jpg,딱풀.mp4,train,363,12.096
+train/train_glue_stick_f0392.jpg,딱풀.mp4,train,392,13.07
+train/train_glue_stick_f0407.jpg,딱풀.mp4,train,407,13.57
+train/train_glue_stick_f0452.jpg,딱풀.mp4,train,452,15.07
+train/train_glue_stick_f0482.jpg,딱풀.mp4,train,482,16.07
+train/train_glue_stick_f0496.jpg,딱풀.mp4,train,496,16.536
+train/train_glue_stick_f0526.jpg,딱풀.mp4,train,526,17.536
+train/train_glue_stick_f0615.jpg,딱풀.mp4,train,615,20.502
+train/train_glue_stick_f0630.jpg,딱풀.mp4,train,630,21.002
+val/val_glue_stick_f0675.jpg,딱풀.mp4,val,675,22.501
+val/val_glue_stick_f0690.jpg,딱풀.mp4,val,690,23.001
+val/val_glue_stick_f0705.jpg,딱풀.mp4,val,705,23.501
+val/val_glue_stick_f0720.jpg,딱풀.mp4,val,720,24.001
+val/val_glue_stick_f0735.jpg,딱풀.mp4,val,735,24.501
+train/train_glue_stick_f0973.jpg,딱풀.mp4,train,973,32.776
+train/train_glue_stick_f1017.jpg,딱풀.mp4,train,1017,34.242
+train/train_glue_stick_f1077.jpg,딱풀.mp4,train,1077,36.233
+train/train_glue_stick_f1107.jpg,딱풀.mp4,train,1107,37.242
+train/train_glue_stick_f1196.jpg,딱풀.mp4,train,1196,40.207
+train/train_tape_dispenser_f0005.jpg,스카치테이프.mp4,train,5,0.168
+train/train_tape_dispenser_f0035.jpg,스카치테이프.mp4,train,35,1.167
+train/train_tape_dispenser_f0065.jpg,스카치테이프.mp4,train,65,2.175
+train/train_tape_dispenser_f0095.jpg,스카치테이프.mp4,train,95,3.175
+train/train_tape_dispenser_f0125.jpg,스카치테이프.mp4,train,125,4.167
+train/train_tape_dispenser_f0155.jpg,스카치테이프.mp4,train,155,5.175
+train/train_tape_dispenser_f0200.jpg,스카치테이프.mp4,train,200,6.674
+train/train_tape_dispenser_f0245.jpg,스카치테이프.mp4,train,245,8.174
+train/train_tape_dispenser_f0275.jpg,스카치테이프.mp4,train,275,9.174
+train/train_tape_dispenser_f0335.jpg,스카치테이프.mp4,train,335,11.173
+val/val_tape_dispenser_f0395.jpg,스카치테이프.mp4,val,395,13.173
+val/val_tape_dispenser_f0410.jpg,스카치테이프.mp4,val,410,13.673
+val/val_tape_dispenser_f0455.jpg,스카치테이프.mp4,val,455,15.172
+val/val_tape_dispenser_f0485.jpg,스카치테이프.mp4,val,485,16.172
+val/val_tape_dispenser_f0515.jpg,스카치테이프.mp4,val,515,17.172
+train/train_tape_dispenser_f0575.jpg,스카치테이프.mp4,train,575,19.171
+train/train_tape_dispenser_f0605.jpg,스카치테이프.mp4,train,605,20.171
+train/train_tape_dispenser_f0635.jpg,스카치테이프.mp4,train,635,21.171
+train/train_tape_dispenser_f0665.jpg,스카치테이프.mp4,train,665,22.171
+train/train_tape_dispenser_f0710.jpg,스카치테이프.mp4,train,710,23.67
+train/train_tape_dispenser_f0725.jpg,스카치테이프.mp4,train,725,24.17
+train/train_tape_dispenser_f0755.jpg,스카치테이프.mp4,train,755,25.17
+train/train_tape_dispenser_f0770.jpg,스카치테이프.mp4,train,770,25.67
+train/train_tape_dispenser_f0785.jpg,스카치테이프.mp4,train,785,26.17
+train/train_tape_dispenser_f0800.jpg,스카치테이프.mp4,train,800,26.67
+test/test_tape_dispenser_f0860.jpg,스카치테이프.mp4,test,860,28.669
+test/test_tape_dispenser_f0890.jpg,스카치테이프.mp4,test,890,29.669
+test/test_tape_dispenser_f0905.jpg,스카치테이프.mp4,test,905,30.169
+test/test_tape_dispenser_f0950.jpg,스카치테이프.mp4,test,950,31.669
+test/test_tape_dispenser_f0965.jpg,스카치테이프.mp4,test,965,32.168
+train/train_stapler_f0005.jpg,스테이플러.mp4,train,5,0.17
+train/train_stapler_f0035.jpg,스테이플러.mp4,train,35,1.162
+train/train_stapler_f0065.jpg,스테이플러.mp4,train,65,2.17
+train/train_stapler_f0095.jpg,스테이플러.mp4,train,95,3.17
+train/train_stapler_f0155.jpg,스테이플러.mp4,train,155,5.169
+train/train_stapler_f0200.jpg,스테이플러.mp4,train,200,6.669
+train/train_stapler_f0230.jpg,스테이플러.mp4,train,230,7.669
+train/train_stapler_f0260.jpg,스테이플러.mp4,train,260,8.668
+train/train_stapler_f0305.jpg,스테이플러.mp4,train,305,10.168
+train/train_stapler_f0365.jpg,스테이플러.mp4,train,365,12.168
+train/train_stapler_f0395.jpg,스테이플러.mp4,train,395,13.167
+train/train_stapler_f0425.jpg,스테이플러.mp4,train,425,14.167
+val/val_stapler_f0500.jpg,스테이플러.mp4,val,500,16.666
+val/val_stapler_f0515.jpg,스테이플러.mp4,val,515,17.166
+val/val_stapler_f0530.jpg,스테이플러.mp4,val,530,17.666
+val/val_stapler_f0545.jpg,스테이플러.mp4,val,545,18.166
+val/val_stapler_f0560.jpg,스테이플러.mp4,val,560,18.666
+train/train_stapler_f0771.jpg,스테이플러.mp4,train,771,25.698
+train/train_stapler_f0786.jpg,스테이플러.mp4,train,786,26.198
+train/train_stapler_f0801.jpg,스테이플러.mp4,train,801,26.697
+train/train_stapler_f0861.jpg,스테이플러.mp4,train,861,28.689
+train/train_stapler_f0876.jpg,스테이플러.mp4,train,876,29.189
+train/train_stapler_f0951.jpg,스테이플러.mp4,train,951,31.688
+train/train_stapler_f0981.jpg,스테이플러.mp4,train,981,32.688
+train/train_stapler_f0996.jpg,스테이플러.mp4,train,996,33.196
+test/test_stapler_f1131.jpg,스테이플러.mp4,test,1131,37.695
+test/test_stapler_f1176.jpg,스테이플러.mp4,test,1176,39.195
+test/test_stapler_f1206.jpg,스테이플러.mp4,test,1206,40.194
+test/test_stapler_f1236.jpg,스테이플러.mp4,test,1236,41.194
+test/test_stapler_f1281.jpg,스테이플러.mp4,test,1281,42.694

@@ -1,0 +1,6 @@
+/샘플 동영상/
+/labeling_frames/train/
+/labeling_frames/val/
+/labeling_frames/test/
+/runs/
+.env
