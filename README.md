@@ -7,3 +7,13 @@ YOLO11을 파인튜닝하여 스테이플러, 딱풀, 테이프 디스펜서를 
 - 직접 촬영한 영상 4개에서 각 30장씩, 총 120장 추출
 - 학습 80장, 검증 20장, 테스트 20장
 - 클래스: stapler, glue_stick, tape_dispenser
+
+## 최종 모델과 시연 영상
+
+- [학습된 YOLO11n 모델 가중치](weights/best.pt)
+- [5초 객체 탐지·추적 영상](demo/tracking_5s_round2.mp4)
+- [Colab 학습·평가·추적 노트북](notebooks/train_eval_track_round2.ipynb)
+
+검증 성능을 기준으로 36번째 epoch의 모델을 선택했다. 테스트 이미지 20장(객체 30개)에서 Precision 0.9626, Recall 1.0000, mAP50 0.9950, mAP50–95 0.9646을 기록했다.
+
+5초 영상(30fps, 150프레임)에서 스테이플러는 같은 ID로 전 구간 추적됐다. 테이프 디스펜서는 150프레임, 딱풀은 148프레임에서 해당 클래스의 추적 ID가 표시됐다.
